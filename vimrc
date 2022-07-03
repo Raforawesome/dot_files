@@ -12,7 +12,7 @@ Plug 'rust-lang/rust.vim'
 "Plug 'sonph/onehalf', {'rtp': 'vim' }
 Plug 'vim-airline/vim-airline'
 "Plug 'morhetz/gruvbox'
-Plug 'vim-syntastic/syntastic'
+"Plug 'vim-syntastic/syntastic'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'dracula/vim', { 'as': 'dracula' }
 call plug#end()
